@@ -1,4 +1,5 @@
 # Denoising of images using autoencoder
+#pip install tensorflow numpy matplotlib
 import keras
 from keras.datasets import mnist
 from keras import layers
