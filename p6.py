@@ -22,6 +22,7 @@ pyplot.legend()
 pyplot.show()
 
 
+#l2 regularization with alpha=0.001
 from matplotlib import pyplot
 from sklearn.datasets import make_moons
 from keras.models import Sequential
@@ -47,6 +48,7 @@ pyplot.show()
 
 
 
+#l1 and l2 regularizer 
 from matplotlib import pyplot
 from sklearn.datasets import make_moons
 from keras.models import Sequential
