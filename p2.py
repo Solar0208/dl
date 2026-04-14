@@ -1,4 +1,5 @@
 #XOR problem using deep feed forward network
+#pip install tensorflow numpy
 import numpy as np
 from keras.layers import Dense
 from keras.models import Sequential
